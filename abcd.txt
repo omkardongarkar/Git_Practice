@@ -1,2 +1,3 @@
 test file creation
 second line for testing
+third line for conflict test
